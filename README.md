@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imhimbruv.imhimbruv&left_color=cornflowerblue&left_text=GOATS"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imhimbruv.imhimbruv&left_color=cornflowerblue&left_text=Profile Visits"  />
 </div>
 
 ###
